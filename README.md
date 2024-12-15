@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Suyash Bhiste
+A passionate software engineer working on building scalable backend systems
 
 <!--
 **SuyashBhiste/suyashbhiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
